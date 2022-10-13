@@ -136,7 +136,7 @@ const styles = StyleSheet.create({
     },
     contentimg: {
       backgroundColor:'#ffffff',
-      marginTop:10,
+      marginTop:11,
       alignItems: 'center',
       flexDirection:'row'
     },
