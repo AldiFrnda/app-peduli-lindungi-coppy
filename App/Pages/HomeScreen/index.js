@@ -131,7 +131,7 @@ export default HomeScreen = ({navigation}) => {
 
 const styles = StyleSheet.create({
     container: {
-      flex:1,
+      flex:2,
       backgroundColor: '#ffffff',
     },
     contentimg: {
