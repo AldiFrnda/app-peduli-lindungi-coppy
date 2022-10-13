@@ -39,7 +39,7 @@ export default HomeScreen = ({navigation}) => {
           <Image source={IconProfile} style={styles.imgIcon}/>
           <Text style={styles.text1}>Hi,</Text>
           <TouchableOpacity onPress={()=>navigation.navigate('LoginScreen')}>
-            <Text style={styles.text2}>Pargoy</Text>
+            <Text style={styles.text2}>Aldi Fernanda</Text>
           </TouchableOpacity>
           <Image source={IconBell} style={styles.imgIcon2}/>
         </View>
