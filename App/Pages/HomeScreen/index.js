@@ -47,7 +47,7 @@ export default HomeScreen = ({navigation}) => {
         <View style={styles.content2}>
             <View style={styles.content3}>
                 <View style={styles.content4}>
-                <Text style={styles.text3}>silahkan barcode jika memasuki ruang public!</Text>
+                <Text style={styles.text3}>silahkan barcode jika masuk ruangan!</Text>
                 <Text style={styles.text4}>Stay alert to stay safe</Text>
                 </View>
                 <Image source={IconHandQr} style={styles.imgIcon3}/>
