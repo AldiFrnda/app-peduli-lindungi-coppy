@@ -198,7 +198,7 @@ const styles = StyleSheet.create({
         marginTop:20
     },
     content4:{
-        marginRight:30,
+        marginRight:44,
         backgroundColor:'#239BD8',
         borderRadius:10,
     },
