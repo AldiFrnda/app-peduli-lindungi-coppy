@@ -36,7 +36,7 @@ export default LoginScreen = ({navigation}) => {
 
         <View style={styles.email}>
           <Image source={IconMail} style={styles.mail}/>
-          <TextInput style={styles.inputmail} placeholder="youremail@domain.com"/>
+          <TextInput style={styles.inputmail} placeholder="email/ponsel@gmail.com"/>
         </View>
         <View style={styles.password}>
           <Image source={IconLock} style={styles.lock}/>
